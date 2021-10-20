@@ -1,0 +1,22 @@
+
+.flex{
+    width: 1600px;
+    height: 900px;
+   display: flex;
+    background: aqua;
+    justify-content:flex-start;
+    align-items:flex-start;
+    flex-wrap: wrap;
+
+
+}
+.box{
+    width: 1600px;
+    height: 400px;
+
+}
+.box2{
+    flex-basis: 400px;
+
+
+}

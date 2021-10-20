@@ -1,0 +1,68 @@
+.head {
+    background: aqua;
+    width: 1600px;
+    height: 300px;
+
+
+}
+
+.head2 {
+    background: chocolate;
+    width: 1600px;
+    height: 300px;
+
+
+}
+
+.wrap {
+    background: gray;
+    width: 1600px;
+    height: 800px;
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
+
+.menu {
+    background: green;
+    width: 400px;
+    height: 490px;
+    flex-grow: 3;
+    flex-wrap: wrap;
+
+}
+
+.post1 {
+    background: #83434c;
+    width: 400px;
+    height: 490px;
+    flex-grow: 1;
+
+
+}
+
+.post2 {
+    background: #4e7b7a;
+    width: 1000px;
+    height: 240px;
+
+
+}
+
+.post3 {
+    background: blue;
+    width: 1000px;
+    height: 240px;
+
+
+}
+
+.end {
+    background: #3f1414;
+    width: 1000px;
+    height: 310px;
+    flex-grow: 1;
+
+
+}
