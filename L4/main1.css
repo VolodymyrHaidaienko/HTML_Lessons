@@ -1,0 +1,22 @@
+.wrap {
+    /*background: gray;*/
+    width: 1600px;
+    height: auto;
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    column-gap: 10px;
+
+
+}
+
+.boxSize {
+    width: 1600px;
+    height: 500px;
+
+}
+
+.boxSize2 {
+    width: 400px;
+    height: 500px;
+}

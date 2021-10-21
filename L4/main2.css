@@ -1,0 +1,17 @@
+.wrap {
+    background: gray;
+    width: 1600px;
+    height:auto;
+    display: flex;
+
+}
+.boxSize{
+    width: 1600px;
+    height: 700px;
+}
+.boxSize2{
+    width: 400px;
+    height: 700px;
+}
+
+
