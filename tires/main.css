@@ -1,0 +1,141 @@
+a{
+    text-decoration: none;
+}
+.head{
+    background: aqua;
+    width: 1600px;
+    height: 50px;
+    display:flex;
+    justify-content: end;
+    align-items: center;
+
+
+}
+.sail{
+    /*background: gray;*/
+    width: 100px;
+    height: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.head2{
+    /*background: gray;*/
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.somsimg{
+    /*background: blue;*/
+    width:auto;
+    height:auto;
+    border: solid; color: black;
+    border-radius: 10px;
+    text-align:start;
+    padding-top: 30px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-items: flex-start;
+    justify-content:flex-start;
+
+}
+.somsimg image{
+    width: 100px;
+    height: 100px;
+
+}
+.sommenu{
+    background: aliceblue;
+    width: auto;
+    display: flex;
+    align-items: center;
+    column-gap: 40px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+.head3{
+    background: aqua;
+    width: 1600px;
+    height: 400px;
+
+}
+.head3 p{
+    text-align: center;
+    height: auto;
+
+}
+.big__head{
+    justify-content: center;
+    align-items: start;
+    text-align: center;
+    font-size: 50px;
+    box-sizing: border-box;
+}
+
+.head__size{
+    display: flex;
+    justify-content:center;
+    align-items: start;
+    column-gap: 50px;
+
+}
+.size{
+    background:coral;
+    width: 150px;
+    height: 20px;
+    border: solid;color: black;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+
+}
+.head3 button{
+    background: #83434c;
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 25px;
+    font-size: 20px;
+    text-transform: capitalize;
+    cursor: pointer;
+
+}
+
+.main{
+    width: 1600px;
+    height: 450px;
+    border: solid;color: blue;
+    margin: 40px;
+    border-radius: 20px;
+    display: flex;
+    column-gap: 20px;
+    align-items: center;
+    justify-content: space-around;
+    background: aquamarine;
+
+}
+
+.content{
+    width: 250px;
+    height: 250px;
+    display: flex;
+    background: #4e7b7a;
+    border: solid;color: black;
+    border-radius: 10px;
+    align-items: center;
+    justify-content:center;
+
+
+}
+
+.colo{
+    width: 100px;
+    height: 100px;
+    background: white;
+    border-radius: 50px;
+
+}
