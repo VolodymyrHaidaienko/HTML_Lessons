@@ -1,0 +1,135 @@
+@media screen and (max-width: 400px) {
+    .wrap__menu {
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+        align-items: start;
+        height: auto;
+
+    }
+    .wrap__nav{
+        display: flex;
+        flex-direction: column;
+        column-gap: 5px;
+        justify-content: start;
+    }
+    .moscow{
+        display: none;
+    }
+    .wrap__info{
+        display: none;
+    }
+    .menu1{
+        display: flex;
+        height: auto;
+        padding-top: 5px;
+        column-gap: 5px;
+        justify-content: start;
+        flex-direction: column;
+
+
+    }
+
+    .menu1__1{
+        height: 100px;
+        column-gap: 5px;
+
+    }
+
+    .box__menu1{
+        display: none;
+    }
+    .box__navigation{
+        display: none;
+    }
+    .box__watssapp{
+        display: none;
+    }
+    .box__caal{
+        align-items: start;
+    }
+    .wrap__nav2{
+        column-gap: 5px;
+        justify-content: start;
+
+    }
+    .cataloge1{
+        width: 100px;
+        height: 40px;
+        font-size: 14px;
+
+    }
+    .form-inline{
+        width: auto;
+        height: 40px;
+    }
+    .my-2{
+        margin: 0!important;
+    }
+    .wrap__nav__box{
+        display: none;
+    }
+    .carousel__wrap{
+        display: none;
+    }
+    .sales{
+        width: auto;
+        padding-left: 0;
+        justify-content: space-evenly;
+    }
+    .cataloge2{
+        font-size: 14px;
+        padding: 0px 20px;
+    }
+    .cataloge3{
+        font-size: 14px;
+        padding: 0px 20px;
+    }
+    .wrap__colum{
+        flex-direction: column;
+        column-gap: 5px;
+
+    }
+    .wrap__colum div{
+        width: 400px;
+
+    }
+    .down__button{
+        justify-content: start;
+        padding-left: 10px;
+    }
+    .gray__down{
+        display: none;
+    }
+
+
+    .block__end{
+        flex-direction: column;
+        width: 350px;
+    }
+
+    .block__end div h4 {
+        width: 350px;
+    }
+    .block__end div span{
+        text-align: justify;
+    }
+    .block__end2{
+        flex-direction: column;
+        height: auto;
+    }
+    .block__end2 div{
+        flex-direction: column;
+        height: auto;
+    }
+    .block__end2 div h4 p{
+        display: flex;
+        width: 400px;
+    }
+    #formControlInput{
+        width: 350px;
+    }
+
+
+
+}
