@@ -1,4 +1,9 @@
 @media screen and (max-width: 400px) {
+    .body, html {
+        overflow-x: hidden;
+        max-width: 100%;
+
+    }
     .wrap__menu {
         display: flex;
         flex-direction: column;
@@ -121,6 +126,7 @@
     .block__end2 div{
         flex-direction: column;
         height: auto;
+        padding: 10px;
     }
     .block__end2 div h4 p{
         display: flex;
